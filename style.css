@@ -1,0 +1,350 @@
+header {
+    position: absolute;
+    width: 960px;
+    height: 128px;
+    left: 0px;
+    top: 0px;
+
+    background: #0C2B7C;
+}
+header img {
+    position: absolute;
+    width: 150px;
+    height: 105px;
+    left: 12px;
+    top: 12px;
+
+    background: #FFFFFF;
+}
+
+h1 {
+    position: absolute;
+width: 489px;
+height: 59px;
+left: 251px;
+top: 160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+
+color: #000000;
+}
+
+h3 {
+    position: absolute;
+width: 444px;
+height: 90px;
+left: 27px;
+top: 333px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+
+p {
+
+background: url(dolphinarium-3578853_1920.jpg);
+
+    position: absolute;
+width: 746px;
+height: 81px;
+left: 98px;
+top: 413px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: justify;
+
+color: #000000;
+position: absolute;
+width: 812px;
+height: 218px;
+left: 69px;
+top: 391px;
+
+padding: 10px;
+border: 10px solid #03FFFF;
+box-sizing: border-box;
+border-radius: 30px;
+
+}
+
+.ltkmasyfhsq {
+    position: absolute;
+width: 100px;
+height: 66.67px;
+left: 87px;
+top: 508px;
+
+background: url(dolphinarium-3578853_1920.jpg);
+}
+
+.sp {
+    position: absolute;
+width: 198.31px;
+height: 66px;
+left: 350px;
+top: 508px;
+
+background: url(background-4703963_1920.jpg);
+}
+
+.ecn {
+    
+position: absolute;
+width: 100px;
+height: 66.61px;
+left: 218px;
+top: 508px;
+
+background: url(blue-2567658_1920.jpg);
+}
+
+.pfghjiet {
+position: absolute;
+width: 94.76px;
+height: 65px;
+left: 585px;
+top: 505px;
+
+background: url(dolphin-3730716_640.jpg);
+}
+
+.hjre {
+    position: absolute;
+width: 120px;
+height: 65px;
+left: 707px;
+top: 509px;
+
+background: url(dolphin-79847_640.jpg);
+}
+
+.pfufkjdfr {
+    position: absolute;
+width: 444px;
+height: 90px;
+left: 81px;
+top: 649px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+}
+
+.gfhfuhfa {
+    position: absolute;
+width: 746px;
+height: 81px;
+left: 98px;
+top: 733px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: justify;
+
+color: #000000;
+
+position: absolute;
+width: 812px;
+height: 218px;
+left: 87px;
+top: 708px;
+
+background: #FFFFFF;
+border: 10px solid #0500FF;
+box-sizing: border-box;
+border-radius: 30px;
+}
+
+.yf {
+    position: absolute;
+width: 117px;
+height: 70px;
+left: 99px;
+top: 835px;
+
+background: url(dolphin-1132843_1920.jpg);
+}
+
+.trcrehcsz {
+    position: absolute;
+width: 100px;
+height: 70px;
+left: 225px;
+top: 835px;
+
+background: url(dolphin-91090_1920.jpg);
+}
+
+.lkz {
+    position: absolute;
+width: 170px;
+height: 70px;
+left: 334px;
+top: 835px;
+
+background: url(dolphins-277331_1920.jpg);
+}
+
+.jcs {
+    position: absolute;
+width: 130px;
+height: 70px;
+left: 513px;
+top: 835px;
+
+background: url(girl-68819_1920.jpg);
+}
+
+.ghj {
+    position: absolute;
+width: 150px;
+height: 70px;
+left: 652px;
+top: 835px;
+
+background: url(animals-4703964_640.jpg);
+}
+
+.yfc {
+    position: absolute;
+    width: 444px;
+    height: 90px;
+    left: 27px;
+    top: 958px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #000000;
+}
+.lel {
+    position: absolute;
+width: 746px;
+height: 81px;
+left: 84px;
+top: 1039px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: justify;
+
+color: #000000;
+
+position: absolute;
+width: 812px;
+height: 218px;
+left: 69px;
+top: 1025px;
+
+background: #FFFFFF;
+border: 10px solid #03FFFF;
+box-sizing: border-box;
+border-radius: 30px;
+}
+
+.nen {
+   position: absolute;
+width: 130px;
+height: 70px;
+left: 85px;
+top: 1144px;
+
+background: url(dolphins-1132847_1920.jpg);
+}
+
+.nf {
+    position: absolute;
+width: 130px;
+height: 70px;
+left: 231px;
+top: 1144px;
+
+background: url(dolphin-906176_1920.jpg);
+}
+
+.uj {
+    position: absolute;
+width: 150px;
+height: 70px;
+left: 377px;
+top: 1144px;
+
+background: url(dolphins-906175_1920.jpg);
+}
+
+.yf {
+    position: absolute;
+width: 140px;
+height: 70px;
+left: 543px;
+top: 1144px;
+
+background: url(animal-1869337_640.jpg);
+}
+
+.lsnb {
+    position: absolute;
+width: 120px;
+height: 70px;
+left: 700px;
+top: 1144px;
+
+background: url(woman-2444053_640.jpg);
+}
+
+.djy {
+    position: absolute;
+width: 960px;
+height: 217px;
+left: 0px;
+top: 1288px;
+
+background: #0500FF;
+}
+
+.flhtcf {
+    position: absolute;
+width: 388px;
+height: 72px;
+left: 37px;
+top: 1313px;
+
+background: #FFFFFF;
+}
+
+.ntktajy {
+    position: absolute;
+width: 388px;
+height: 72px;
+left: 37px;
+top: 1397px;
+
+background: #FFFFFF;
+}
